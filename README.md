@@ -4,8 +4,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasFlorindo&bg_color=0d1117&color=3CB371&line=2E8B57&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasFlorindo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasFlorindo&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=3CB371&text_color=3CB371&bg_color=0d1117" alt="Lucas Florindo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFlorindo&layout=compact&hide_border=true&title_color=3CB371&text_color=3CB371&bg_color=0d1117" />
+</div>
 
 
